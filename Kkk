@@ -1,0 +1,9 @@
+cofig={
+
+namescript ="VinhDucHub"
+
+logoscript="80882132154802"
+
+tacgia ="VinhDuc"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VGB-VGB-VGB/-VGB-Chest-Farm--/refs/heads/main/ChestFarmByVGBTeam"))()
